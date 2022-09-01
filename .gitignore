@@ -627,3 +627,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+lib64
+
+pyvenv.cfg
